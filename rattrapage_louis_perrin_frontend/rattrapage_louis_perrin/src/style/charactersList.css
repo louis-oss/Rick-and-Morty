@@ -1,0 +1,26 @@
+.group-card-title {
+  color: #9cff00
+}
+
+.card-link {
+  text-decoration: none;
+}
+
+.card-hover {
+  transition: transform 0.2s;
+}
+
+.card-hover:hover {
+  transform: scale(1.05);
+}
+
+.card {
+  max-width: 20vw;
+}
+
+.card-body {
+  max-height: 50vh;
+  min-height: 25vh;
+  background: #455268;
+  color: #FFF
+}

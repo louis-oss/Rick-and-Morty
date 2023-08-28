@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-container {
+  max-height: 450px;
+  overflow-y: scroll;
+  border-radius: 5px;
+  width: 100%
+}
